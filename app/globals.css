@@ -11,7 +11,7 @@ body {
 }
 
 .second {
-  color: #c4c4c4;
+  color: #797979;
 }
 
 .bg-img {
@@ -19,4 +19,8 @@ body {
   background-repeat: no-repeat;
   background-position: right center; /* Прикрепляет изображение к правому краю */
   background-size: auto 100%; /* Размер изображения */
+}
+
+.bg-icon {
+  background-color: rgba(35, 135, 192, 0.3)
 }

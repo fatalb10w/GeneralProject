@@ -1,7 +1,7 @@
 import Image from "next/image";
 import React from "react";
 
-function CardComponent({child, title, text}) {
+function CardComponent({ child, title, text }) {
   return (
     <div className="flex flex-col gap-9">
       {child}
